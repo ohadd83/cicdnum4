@@ -7,7 +7,7 @@
   }, 
   "scripts": {
     "start": "node app.js",
-    "test": "test is ok"
+    "test": "echo Test is OK"
   }
 }
 
